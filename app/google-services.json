@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537896883968",
+    "project_id": "seguimiento-25499",
+    "storage_bucket": "seguimiento-25499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537896883968:android:285247c727037a7cc3c5e5",
+        "android_client_info": {
+          "package_name": "com.example.seguimiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537896883968-jdiskcpe1otji4rlrf7dd12ksu4kg03i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seguimiento",
+            "certificate_hash": "c0988ff486869b077abc212bdb3a381a7b028e0a"
+          }
+        },
+        {
+          "client_id": "537896883968-uaeq6m417nsk9p3jj39d86n34hbi75en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuran1Mt301m836dwLTPRnHlkFzHxy3CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537896883968-uaeq6m417nsk9p3jj39d86n34hbi75en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
